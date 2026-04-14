@@ -8,9 +8,9 @@
   1. Mostrar a alternativa `for` como estrutura de repetição
 
 ---
-## Notas de aula [slides pdf](FIXME)
+## Notas de aula [slides pdf](/09-repetição-for.pdf)
 1. FIXME
 
 ---
-## Exercícios [Lista de exercícios](/lista.md) FIXME
+## Exercícios [Lista de exercícios](/lista.md)
 1. FIXME
